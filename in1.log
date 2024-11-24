@@ -1,0 +1,6 @@
+2020-01-02 01:02:03.100+05:00 DEBUG This is a dummy DEBUG message 1
+2020-01-02 01:02:03.200+05:00 INFO This is a random INFO message 1
+2020-01-02 01:02:03.300+05:00 ERROR This is an test ERROR message 1
+2020-01-02 01:02:03.400+05:00 info This is a another random INFO message 1
+2020-01-02 01:02:03.500+05:00 ERROR This is an different test ERROR message 1
+2020-01-02 01:02:03.600+05:00 DEBUG This is a dummy test DEBUG message 1
